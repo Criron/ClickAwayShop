@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "371993060406",
+    "project_id": "clickawayshop-c2bb0",
+    "storage_bucket": "clickawayshop-c2bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371993060406:android:c21bb07f81a337268ce497",
+        "android_client_info": {
+          "package_name": "com.example.polit.clickawayshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371993060406-l73d1mrj3th272i6hnn40o24i0vvqnjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-TASrP1wK7_n_pAROgGbyUAX4Q3DJI0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "371993060406-l73d1mrj3th272i6hnn40o24i0vvqnjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
